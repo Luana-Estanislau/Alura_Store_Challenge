@@ -14,7 +14,7 @@ Determinar, en base a datos históricos de ventas, logística y satisfacción de
 
 ## 📂 Contenido del repositorio
 
-- `notebook_alura_store.ipynb` → Notebook principal con todo el análisis y las visualizaciones.
+- `AluraStoreLatam_Final.ipynb` → Notebook principal con todo el análisis y las visualizaciones.
 - `README.md` → Documento actual con descripción del proyecto.
 
 ---
